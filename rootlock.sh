@@ -1,3 +1,5 @@
+#/bin/bash
+
 # List of users to restrict from using sudo
 RESTRICTED_USERS=("perry" "carlos" "kan" "alice" "josefina")  # Replace with actual usernames
 
