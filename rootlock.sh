@@ -1,5 +1,5 @@
 # List of users to restrict from using sudo
-RESTRICTED_USERS=("user1" "user2")  # Replace with actual usernames
+RESTRICTED_USERS=("perry" "carlos" "kan" "alice" "josefina")  # Replace with actual usernames
 
 # Function to restrict users from sudo
 restrict_users() {
